@@ -1,0 +1,5 @@
+name: PlayerNbtSaver
+version: 0.1
+author: Xakep_SDK
+main: dk.xakeps.bukkit.playernbt.Main
+depend: [PowerNBT]
